@@ -31,6 +31,7 @@ class MainActivity : AppCompatActivity() {
     lateinit var goBtn: Button  // add
     lateinit var date: String   // add
     lateinit var viewBtn: Button
+    lateinit var locBtn: Button
 
     val SUBACTIVITY_REQUEST_CODE = 100
 
@@ -45,6 +46,7 @@ class MainActivity : AppCompatActivity() {
         title=findViewById(R.id.title)
         goBtn=findViewById(R.id.goBtn)  // add
         viewBtn=findViewById(R.id.viewBtn)
+        locBtn = findViewById(R.id.locBtn)
 
 
         title.text = "If I Dieary"
@@ -65,6 +67,12 @@ class MainActivity : AppCompatActivity() {
         viewBtn.setOnClickListener {
             Log.d("ITM", "viewBtn in")
             val intent = Intent(this, ViewActivity::class.java)
+            startActivity(intent)
+        }
+
+        locBtn.setOnClickListener {
+            Log.d("ITM", "move to location activity")
+            val intent = Intent(this, LocationActivity::class.java)
             startActivity(intent)
         }
     }
