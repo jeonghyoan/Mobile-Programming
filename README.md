@@ -19,17 +19,25 @@ If I DIEARY combines "DIE" and "DIARY," inspired by Beenzino's song "If I die to
 
 ## Interface Overview
 1. Sign up / Log-in / and Log-out  
-   ![캡처](https://github.com/user-attachments/assets/385c108f-f18e-4ead-b8af-ba154a1027dd) 
-
+   ![캡처](https://github.com/user-attachments/assets/385c108f-f18e-4ead-b8af-ba154a1027dd)
+   
+   <br>
+   
 2. Write a diary  
-   ![캡처2](https://github.com/user-attachments/assets/10c8da94-9b9e-418e-b30c-5c306f00a6e2)  
-
+   ![캡처2](https://github.com/user-attachments/assets/10c8da94-9b9e-418e-b30c-5c306f00a6e2)
+   
+   <br>
+   
 3. Record the books that you read  
-   ![캡처3](https://github.com/user-attachments/assets/d78de7f7-9c3a-42d1-a4b9-06073192dd49)  
-
+   ![캡처3](https://github.com/user-attachments/assets/d78de7f7-9c3a-42d1-a4b9-06073192dd49)
+   
+   <br>
+   
 4. Save where you’ve Been  
-   ![캡처4](https://github.com/user-attachments/assets/17656c83-eed8-440b-abbb-37356225460a)  
-
+   ![캡처4](https://github.com/user-attachments/assets/17656c83-eed8-440b-abbb-37356225460a)
+   
+   <br>
+   
 5. View posts created on that day  
    ![캡처5](https://github.com/user-attachments/assets/f54535d4-40f7-44cf-af38-1a9ee58b1b99)  
 
