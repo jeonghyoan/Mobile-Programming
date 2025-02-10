@@ -12,11 +12,6 @@ If I DIEARY combines "DIE" and "DIARY," inspired by Beenzino's song "If I die to
 ## Unique Features
 - **No Delete Function**: Encourages users to appreciate every memory and reflect on their lives by removing the option to delete entries, emphasizing the value of all experiences.<br><br><br>
 
-## Challenges Faced
-- **Data Management**: Designing a secure database for user data was a major challenge, ensuring privacy and integrity.
-- **User Experience**: Creating an intuitive interface that balances functionality and ease of use required extensive testing.
-- **API Integration**: Implementing external APIs, such as Google Maps and Interpark Book API, posed difficulties, particularly in ensuring smooth data retrieval and integration.<br><br><br>
-
 ## Interface Overview
 1. Sign up / Log-in / and Log-out  
    ![캡처](https://github.com/user-attachments/assets/385c108f-f18e-4ead-b8af-ba154a1027dd)
